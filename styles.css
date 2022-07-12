@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: aquamarine;
+    background-color: blueviolet;
+}
+
+ul {
+    list-style: upper-roman;
+    background-color: darkgoldenrod;
+}
